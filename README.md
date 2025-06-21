@@ -63,7 +63,8 @@ cd ecommerce-devnology
 - npm run start
 
 
-🛍️ Funcionalidades: 
+
+**🛍️ Funcionalidades: **
 
 🔍 Busca e filtro por nome e origem
 🧺 Carrinho com quantidade personalizada

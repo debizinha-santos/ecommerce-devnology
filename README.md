@@ -75,10 +75,10 @@ cd ecommerce-devnology
 
 
 📌 Decisões Técnicas
-Padronização dos dados no frontend (nome → name, preco → price)
-Campo origem adicionado aos produtos para controle
-Armazenamento de carrinho no estado do componente pai
-CSS modularizado e sem uso de bibliotecas
+- Padronização dos dados no frontend (nome → name, preco → price)
+- Campo origem adicionado aos produtos para controle
+- Armazenamento de carrinho no estado do componente pai
+- CSS modularizado e sem uso de bibliotecas
 
 
 - **Carrinho de compras**: armazenado no estado global do App, permitindo navegação entre páginas sem perder os dados.

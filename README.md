@@ -52,17 +52,15 @@ GET http://616d6bdb6dacbb001794ca17.mockapi.io/devnology/european_provider
 git clone https://github.com/debizinha-santos/ecommerce-devnology.git
 cd ecommerce-devnology
 
-## Backend
-cd backend
-npm install
-npm run start
-
-
 ## Frontend
-cd frontend
-npm install
-npm start
+- cd frontend
+- npm install
+- npm start
 
+## Backend
+- cd backend
+- npm install
+- npm run start
 
 
 🛍️ Funcionalidades: 
